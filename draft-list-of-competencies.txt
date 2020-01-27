@@ -1,0 +1,43 @@
+==Network
+- OSI
+- Network segmentation
+- DMZ
+- IPSec
+- Wi-Fi
+-- WPA 2 PSK
+-- WPA 2 Enterprise
+
+==Protocols
+- FTP
+- SMB
+- SFTP
+- HTTP
+- SSL
+- LDAP
+- Radius
+
+==Operating Systems
+- Linux
+- Windows
+
+==Programming
+- Scripting
+- CI/CD
+
+== Risk assessment
+
+== Attacks
+- Bruteforce
+-- Online
+-- Offline
+
+== Cryptography
+- PKI
+- CA
+- X.509
+- Cryptoapi
+
+== Methodology
+- Mitre
+-- TTP
+- OWASP
