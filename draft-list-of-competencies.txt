@@ -3,22 +3,28 @@
 - Network segmentation
 - DMZ
 - IPSec
+- 802.1x
 - Wi-Fi
 -- WPA 2 PSK
 -- WPA 2 Enterprise
+- stunnel
+- SSL\TLS
 
 ==Protocols
 - FTP
 - SMB
 - SFTP
 - HTTP
-- SSL
+- SSL\TLS
 - LDAP
 - Radius
+- WebDav
 
 ==Operating Systems
 - Linux
+-- authentication
 - Windows
+- Kernel mode
 
 ==Programming
 - Scripting
