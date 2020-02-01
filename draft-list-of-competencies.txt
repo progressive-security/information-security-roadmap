@@ -24,6 +24,9 @@
 - Linux
 -- authentication
 - Windows
+- Android
+- iOS
+- MacOS
 - Kernel mode
 
 ==Programming
@@ -47,3 +50,11 @@
 - Mitre
 -- TTP
 - OWASP
+
+==Tools
+- Metasploit
+- Burp Suite
+- ZAProxy
+- nmap
+- patator
+- LOIC\HOIC
